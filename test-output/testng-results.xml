@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-13T17:02:22 IST" name="Suite" finished-at="2022-06-13T17:02:51 IST" duration-ms="28999">
+    <groups>
+    </groups>
+    <test started-at="2022-06-13T17:02:22 IST" name="Test" finished-at="2022-06-13T17:02:51 IST" duration-ms="28999">
+      <class name="testClasses.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.LoginPageTest@3232a28a]" started-at="2022-06-13T17:02:22 IST" name="setUp" finished-at="2022-06-13T17:02:31 IST" duration-ms="8142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EnterCredentialsTest()[pri:0, instance:testClasses.LoginPageTest@3232a28a]" started-at="2022-06-13T17:02:31 IST" name="EnterCredentialsTest" finished-at="2022-06-13T17:02:34 IST" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterCredentialsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClasses.LoginPageTest@3232a28a]" started-at="2022-06-13T17:02:34 IST" name="tearDown" finished-at="2022-06-13T17:02:35 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClasses.LoginPageTest -->
+      <class name="testClasses.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.HomePageTest@1de76cc7]" started-at="2022-06-13T17:02:35 IST" name="setUp" finished-at="2022-06-13T17:02:44 IST" duration-ms="8860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="creatingPostTest()[pri:0, instance:testClasses.HomePageTest@1de76cc7]" started-at="2022-06-13T17:02:44 IST" name="creatingPostTest" finished-at="2022-06-13T17:02:51 IST" duration-ms="6786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingPostTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClasses.HomePageTest@1de76cc7]" started-at="2022-06-13T17:02:51 IST" name="tearDown" finished-at="2022-06-13T17:02:51 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClasses.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
